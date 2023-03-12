@@ -1,5 +1,5 @@
 ### Hello there !👋  My Name is HaDi
-###  I'm Amateur Bukkit API & Java
+###  I'm Amateur in Bukkit API & Java
 
 <!--
 **HqDi96/HqDi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,3 +9,4 @@
 ### How to reach me? HaaaaaaaaDiii#3840 or https://discord.gg/ABTf3VxhHA
 
 
+![](https://komarev.com/ghpvc/?username=Cobeine&color=gray)

@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hadi A.K.A BoSultan</h1>
-<h3 align="center">A passionate frontend developer from Syria , Sweden.</h3>
+<h1 align="center">Hi 👋, I'm Hadi</h1>
+<h3 align="center">A passionate backend developer from Syria , Sweden.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hqdi96&label=Profile%20views&color=0e75b6&style=flat" alt="hqdi96" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hqdi96" alt="hqdi96" /></a> </p>
 
 - 🌱 I’m currently learning **about all of the SQL and learning the java oop.**
 

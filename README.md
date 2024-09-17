@@ -40,21 +40,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hqdi96&" alt="hqdi96" />
 </p>
-
-<!-- SVG Animation -->
-<h3 align="center">Animated Text:</h3>
-<p align="center">
-  <svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .animate {
-        animation: fadeInOut 3s infinite;
-      }
-      @keyframes fadeInOut {
-        0% { opacity: 0; }
-        50% { opacity: 1; }
-        100% { opacity: 0; }
-      }
-    </style>
-    <text x="10" y="30" class="animate" font-family="Verdana" font-size="24" fill="blue">Hello, I'm Hadi!</text>
-  </svg>
-</p>

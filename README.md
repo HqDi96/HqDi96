@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadi</h1>
-<h3 align="center">A passionate backend developer from Syria</h3>
+<h3 align="center">A passionated backend developer from Syria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hqdi96&label=Profile%20views&color=0e75b6&style=flat" alt="hqdi96" /> </p>
 

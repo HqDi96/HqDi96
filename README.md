@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Visitor!+👋;+I'm+Hadi+Homsi!;" />
 </h1>
 
-<h3 align="center">A passionate backend developer from Syria 🇸🇾 </h3>
+<h3 align="center">"I'm an 18-year-old self-taught full-stack developer from Syria 🇸🇾, passionate about building both frontend and backend systems. Currently deepening my skills in Java, with a commitment to continuous learning and growth. My goal is to master every aspect of development, constantly pushing myself to become the best." </h3>
 
 <br/>
 

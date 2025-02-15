@@ -16,6 +16,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=eclipse" />
     <img src="https://skillicons.dev/icons?i=mongodb,java,mysql" /><br>
 </div>
 

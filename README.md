@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Hadi+Homsi!;" />
 </h1>
 
-<h3 align="center">"I'm an 18-year-old self-taught full-stack developer from Syria 🇸🇾, passionate about building backend systems. My goal is to master every aspect of development, constantly pushing myself to become the best." </h3>
+<h3 align="center">"Hey, my name is Hadi an self-taught developer from Syria 🇸🇾, passionate about building backend systems. My goal is to master every aspect of development, constantly pushing myself to become the best." </h3>
 
 <br/>
 
@@ -16,7 +16,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=eclipse,redis,sqlite,maven,ps" />
+    <img src="https://skillicons.dev/icons?i=eclipse,redis,sqlite,lombok,maven,ps" />
     <img src="https://skillicons.dev/icons?i=mongodb,java,mysql" /><br>
 </div>
 
